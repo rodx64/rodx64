@@ -117,8 +117,8 @@
 
 ### 🎓 Pós (Core)
 - [ ] CI / CD
-    - [ ] Criação de pipelines Eficientes com Github Actions.
-    - [ ] Multistage, Paralelismo e Condições Avançadas.
+    - [x] Criação de pipelines Eficientes com Github Actions.
+    - [x] Multistage, Paralelismo e Condições Avançadas.
     - [ ] Ambientes, Secrets e Multi-Tenant.
     - [ ] Notificações, Alertas e Observabilidade no CI/CD.
     - [ ] Deploy Automatizado em Kubernetes na Nuvem
