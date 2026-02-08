@@ -119,9 +119,9 @@
 - [ ] CI / CD
     - [x] Criação de pipelines Eficientes com Github Actions.
     - [x] Multistage, Paralelismo e Condições Avançadas.
-    - [ ] Ambientes, Secrets e Multi-Tenant.
+    - [x] Ambientes, Secrets e Multi-Tenant.
     - [ ] Notificações, Alertas e Observabilidade no CI/CD.
-    - [ ] Deploy Automatizado em Kubernetes na Nuvem
+    - [x] Deploy Automatizado em Kubernetes na Nuvem
 - [ ] IAAC
     - [ ] Terraform, Cloud, OpenTofu e Terragrunt.
     - [ ] Automação com IaC e CI/CD.
