@@ -116,30 +116,38 @@
 ### Pipelines, IaC e DevSecOps
 
 ### 🎓 Pós (Core)
-- [ ] CI / CD
-    - [x] Criação de pipelines Eficientes com Github Actions.
-    - [x] Multistage, Paralelismo e Condições Avançadas.
-    - [x] Ambientes, Secrets e Multi-Tenant.
-    - [ ] Notificações, Alertas e Observabilidade no CI/CD.
-    - [x] Deploy Automatizado em Kubernetes na Nuvem
+- [x] CI / CD
+    - [x] Fundamentos e Arquitetura de Pipelines de CI/CD
+    - [x] Otimização e Escalabilidade de Pipelines
+    - [x] Entrega Contínua para Kubernetes
+    - [x] doção de GitOps com ArgoCD e FluxCD
+    - [x] IaC em Pipelines com Terraform
+    - [x] CI/CD para Arquiteturas Serverless
+    - [x] AIOps e Automação em Pipelines de CI/CD
 - [ ] IAAC
-    - [ ] Terraform, Cloud, OpenTofu e Terragrunt.
-    - [ ] Automação com IaC e CI/CD.
-    - [ ] Módulos, Loops e conditions.
-    - [ ] Kubernetes via Terraform: Usando o Provider Kubectl.
-    - [ ] Auditoria, Versionamento e Segurança em IaC.
+    - [ ] Introdução à IaC: Terraform e OpenTofu
+    - [ ] Aprofundando no Terraform: Variáveis, Outputs e State
+    - [ ] Módulos, Loops e Condicionais
+    - [ ] Automação com IaC e CI/CD (Terraform + GitHub Actions)
+    - [ ] Gerenciando Ambientes com Terragrunt
+    - [ ] Kubernetes via Terraform: Usando os Providers Kubernetes e Kubectl
+    - [ ] Auditoria, Versionamento e Segurança em IaC
+    - [ ] Criando infraestrutura completa na AWS
 - [ ] DevSecOps
-    - [ ] DevSecOps e principais ameaças.
-    - [ ] OWASP, MITRE e Defesa contra DDoS.
-    - [ ] Segurança em Pipelines: SAST e DAST.
-    - [ ] Detecção de Ameaças e Gestão com SIEM.
-    - [ ] LGPD, Auditoria e Conformidade na Cloud.
+    - [ ] Fundamentos: Do Git ao Pipeline
+    - [ ] Shift-Left: SAST, DAST e SCA
+    - [ ] Análise de Riscos: MITRE ATT&CK
+    - [ ] Vulnerabilidades Críticas: OWASP e CVEs
+    - [ ] Explorando Falhas: Injections e XSS
+    - [ ] Risco das Dependências: Supply Chain e SBOM
+    - [ ] Estratégia DevSecOps: Métricas e Maturidade
 - [ ] Segurança na Cloud
     - [ ] Principais Ameaças em Ambientes Cloud.
-    - [ ] Modelo de Responsabilidade Compartilhada na Nuvem.
-    - [ ] Segurança de Identidade e Acesso (IAM, MFA e Zero Trust).
-    - [ ] Proteção de Dados: Criptografia e Privacidade.
+    - [ ] Modelo de Responsabilidade Compartilhada na Nuvem
+    - [ ] Segurança de Identidade e Acesso (IAM, MFA e Zero Trust)
+    - [ ] Proteção de Dados: Criptografia e Privacidade
     - [ ] Ferramentas de CSPM, CWPP e CASB
+  
 
 ### 🔐 AppSec — Nível 1
 - [ ] SSDLC na prática
