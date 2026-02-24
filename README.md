@@ -120,7 +120,7 @@
     - [x] Fundamentos e Arquitetura de Pipelines de CI/CD
     - [x] Otimização e Escalabilidade de Pipelines
     - [x] Entrega Contínua para Kubernetes
-    - [x] doção de GitOps com ArgoCD e FluxCD
+    - [x] Adoção de GitOps com ArgoCD e FluxCD
     - [x] IaC em Pipelines com Terraform
     - [x] CI/CD para Arquiteturas Serverless
     - [x] AIOps e Automação em Pipelines de CI/CD
