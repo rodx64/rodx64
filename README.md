@@ -124,15 +124,15 @@
     - [x] IaC em Pipelines com Terraform
     - [x] CI/CD para Arquiteturas Serverless
     - [x] AIOps e Automação em Pipelines de CI/CD
-- [ ] IAAC
-    - [ ] Introdução à IaC: Terraform e OpenTofu
-    - [ ] Aprofundando no Terraform: Variáveis, Outputs e State
-    - [ ] Módulos, Loops e Condicionais
-    - [ ] Automação com IaC e CI/CD (Terraform + GitHub Actions)
-    - [ ] Gerenciando Ambientes com Terragrunt
-    - [ ] Kubernetes via Terraform: Usando os Providers Kubernetes e Kubectl
-    - [ ] Auditoria, Versionamento e Segurança em IaC
-    - [ ] Criando infraestrutura completa na AWS
+- [x] IAAC
+    - [x] Introdução à IaC: Terraform e OpenTofu
+    - [x] Aprofundando no Terraform: Variáveis, Outputs e State
+    - [x] Módulos, Loops e Condicionais
+    - [x] Automação com IaC e CI/CD (Terraform + GitHub Actions)
+    - [x] Gerenciando Ambientes com Terragrunt
+    - [x] Kubernetes via Terraform: Usando os Providers Kubernetes e Kubectl
+    - [x] Auditoria, Versionamento e Segurança em IaC
+    - [x] Criando infraestrutura completa na AWS
 - [ ] DevSecOps
     - [ ] Fundamentos: Do Git ao Pipeline
     - [ ] Shift-Left: SAST, DAST e SCA
