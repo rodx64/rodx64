@@ -111,7 +111,7 @@
 
 ---
 
-## 🟩 FASE 03 — MÊS 1–2
+## 🟩 FASE 03 — MÊS 1–3
 
 ### Pipelines, IaC e DevSecOps
 
@@ -134,7 +134,7 @@
     - [x] Auditoria, Versionamento e Segurança em IaC
     - [x] Criando infraestrutura completa na AWS
 - [ ] DevSecOps
-    - [ ] Fundamentos: Do Git ao Pipeline
+    - [x] Fundamentos: Do Git ao Pipeline
     - [ ] Shift-Left: SAST, DAST e SCA
     - [ ] Análise de Riscos: MITRE ATT&CK
     - [ ] Vulnerabilidades Críticas: OWASP e CVEs
@@ -165,7 +165,7 @@
 
 ---
 
-## 🟨 FASE 04 — MÊS 3–4
+## 🟨 FASE 04 — MÊS 4–5
 
 ### Observabilidade, Monitoramento e Segurança Operacional
 
