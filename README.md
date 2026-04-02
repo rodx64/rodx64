@@ -133,20 +133,20 @@
     - [x] Kubernetes via Terraform: Usando os Providers Kubernetes e Kubectl
     - [x] Auditoria, Versionamento e Segurança em IaC
     - [x] Criando infraestrutura completa na AWS
-- [ ] DevSecOps
+- [x] DevSecOps
     - [x] Fundamentos: Do Git ao Pipeline
-    - [ ] Shift-Left: SAST, DAST e SCA
-    - [ ] Análise de Riscos: MITRE ATT&CK
-    - [ ] Vulnerabilidades Críticas: OWASP e CVEs
-    - [ ] Explorando Falhas: Injections e XSS
-    - [ ] Risco das Dependências: Supply Chain e SBOM
-    - [ ] Estratégia DevSecOps: Métricas e Maturidade
-- [ ] Segurança na Cloud
-    - [ ] Principais Ameaças em Ambientes Cloud.
-    - [ ] Modelo de Responsabilidade Compartilhada na Nuvem
-    - [ ] Segurança de Identidade e Acesso (IAM, MFA e Zero Trust)
-    - [ ] Proteção de Dados: Criptografia e Privacidade
-    - [ ] Ferramentas de CSPM, CWPP e CASB
+    - [x] Shift-Left: SAST, DAST e SCA
+    - [x] Análise de Riscos: MITRE ATT&CK
+    - [x] Vulnerabilidades Críticas: OWASP e CVEs
+    - [x] Explorando Falhas: Injections e XSS
+    - [x] Risco das Dependências: Supply Chain e SBOM
+    - [x] Estratégia DevSecOps: Métricas e Maturidade
+- [x] Segurança na Cloud
+    - [x] Principais Ameaças em Ambientes Cloud.
+    - [x] Modelo de Responsabilidade Compartilhada na Nuvem
+    - [x] Segurança de Identidade e Acesso (IAM, MFA e Zero Trust)
+    - [x] Proteção de Dados: Criptografia e Privacidade
+    - [x] Ferramentas de CSPM, CWPP e CASB
   
 
 ### 🔐 AppSec — Nível 1
@@ -170,9 +170,9 @@
 ### Observabilidade, Monitoramento e Segurança Operacional
 
 ### 🎓 Pós (Core)
-- [ ] Observabilidade e Monitoramento
-    - [ ] Fundamentos de Monitoramento e Observabilidade.
-    - [ ] Os 3 pilares (Logs, Métricas e Traces).
+- [x] Observabilidade e Monitoramento
+    - [x] Fundamentos de Monitoramento e Observabilidade.
+    - [x] Os 3 pilares (Logs, Métricas e Traces).
     - [ ] Métricas de Infraestrutura, Aplicação e Containers.
     - [ ] Alertas e Notificações (Slack, Teams e Email).
 - [ ] Monitoramento Open Source
