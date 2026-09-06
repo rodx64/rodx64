@@ -1,25 +1,20 @@
-# Roadmap Atualizado (2026) — Pós em Arquitetura Cloud + AppSec
-
-> Objetivo: alinhar **100% do estudo** entre a Pós em Arquitetura Cloud (FIAP) e a Trilha de **AppSec** (Alura), usando **um único fluxo de aprendizado, projetos e labs**.
+# Roadmap Atualizado (2025-2027) — Pós em Arquitetura Cloud + Security Engineer
 
 ---
 
 ## 👤 Perfil Atual
 
 * Dev Sênior Java/Kotlin/Python
-* 8–10h de trabalho/dia
-* Entrando no **Módulo 3 da Pós (Pipelines e Segurança na Cloud)**
-* Em paralelo: **Carreira AppSec (níveis 1 → 3)**
-* Tempo de estudo viável: **~10h/semana**
+* Finalizada: Pós em Arquitetura Cloud - FIAP ✅
+* Em andamento: Curso Security Engineer - CECyber
+* Tempo de estudo viável: **~6h/semana**
 
 ---
 
 ## 🧭 Estratégia do Roadmap
 
-* **A Pós é prioridade e define o eixo principal**
 * **O curso de AppSec entra como aprofundamento prático**
-* Tudo deve convergir para:
-  * AppSec e Cloud security 
+* Tudo deve convergir para AppSec e Cloud security 
 
 ---
 
@@ -107,10 +102,6 @@
 * [Projeto Fase 2](https://github.com/rodx64/pos_arch/tree/develop/fase_2/tech_challenge)
 ---
 
-# 📆 Roadmap: em andamento (2026)
-
----
-
 ## 🟩 FASE 03 — MÊS 1–3
 
 ### Pipelines, IaC e DevSecOps
@@ -149,19 +140,11 @@
     - [x] Ferramentas de CSPM, CWPP e CASB
   
 
-### 🔐 AppSec — Nível 1
-- [ ] SSDLC na prática
-- [ ] OWASP Top 10 (Web)
-- [ ] Segurança em Aplicações Web
-- [ ] Segurança em APIs
-- [ ] Gerenciamento de Segredos (Vault)
-- [ ] Threat Modeling (STRIDE)
-
-
 ### 🧪 Projeto Integrado
 * Pipeline CI/CD com controles de segurança
 * Infra como código versionada
 * Documentação de riscos e mitigação
+* [Projeto Fase 3](https://github.com/rodx64/pos_arch/tree/develop/fase_3/tech_challenge)
 
 ---
 
@@ -173,37 +156,27 @@
 - [x] Observabilidade e Monitoramento
     - [x] Fundamentos de Monitoramento e Observabilidade.
     - [x] Os 3 pilares (Logs, Métricas e Traces).
-    - [ ] Métricas de Infraestrutura, Aplicação e Containers.
-    - [ ] Alertas e Notificações (Slack, Teams e Email).
-- [ ] Monitoramento Open Source
-    - [ ] Zabbix, Prometheus, Grafana, OpenTelemetry, Jaeger, StatsD e Loki.
-    - [ ] Instalação, configuração e integração.
-    - [ ] Monitoramento OpenSource no Kubernetes.
-- [ ] APM
-    - [ ] Métricas e Performance com Datadog, New Relic e ELK.
-    - [ ] Logs, Métricas e Traces na prática.
-    - [ ] Alertas Inteligentes e Automação.
-    - [ ] Troubleshooting Avançado e Otimização de Performance/Custos com APM.
-- [ ] Automação de Incidentes
-    - [ ] Monitoramento Ativo, escalation e call rotation.
-    - [ ] MTTR baixo com PagerDuty e OpsGenie.
-    - [ ] Notificação com Slack, Teams, Email.
-    - [ ] Automação com Functions.
-
-### 🔐 AppSec — Nível 2
-- [ ] Monitoramento de eventos de auth e acesso
-- [ ] Detecção básica de ameaças
-- [ ] Segurança multicloud
-- [ ] Proteção de dados e KMS
-- [ ] APIs seguras em escala
-- [ ] Segurança em pipelines CI/CD
-- [ ] Segurança em Aplicativos Mobile
-- [ ] SAST, SCA e DAST
-- [ ] Logs e métricas de segurança
+    - [x] Métricas de Infraestrutura, Aplicação e Containers.
+    - [x] Alertas e Notificações (Slack, Teams e Email).
+- [x] Monitoramento Open Source
+    - [x] Zabbix, Prometheus, Grafana, OpenTelemetry, Jaeger, StatsD e Loki.
+    - [x] Instalação, configuração e integração.
+    - [x] Monitoramento OpenSource no Kubernetes.
+- [x] APM
+    - [x] Métricas e Performance com Datadog, New Relic e ELK.
+    - [x] Logs, Métricas e Traces na prática.
+    - [x] Alertas Inteligentes e Automação.
+    - [x] Troubleshooting Avançado e Otimização de Performance/Custos com APM.
+- [x] Automação de Incidentes
+    - [x] Monitoramento Ativo, escalation e call rotation.
+    - [x] MTTR baixo com PagerDuty e OpsGenie.
+    - [x] Notificação com Slack, Teams, Email.
+    - [x] Automação com Functions.
 
 ### 🧪 Projeto Integrado
 * Dashboards técnicos e de segurança
 * Alertas e runbooks
+* [Projeto Fase 4](https://github.com/rodx64/pos_arch/tree/develop/fase_4/tech_challenge)
 ---
 
 ## 🟧 FASE 05 — MÊS 5–6
@@ -211,39 +184,67 @@
 ### Multicloud, SRE e Segurança em Escala
 
 ### 🎓 Pós (Core)
-- [ ] Multicloud e Segurança
-    - [ ] Criação e Automação Multicloud (AWS, Azure e GCP).
-    - [ ] Segurança e privacidade centralizada.
-    - [ ] Disaster Recovery e PCN.
-    - [ ] Casos de Uso e Cenários reais
-- [ ] SRE
-    - [ ] SRE (Site Reliability Engineering)
-    - [ ] Cultura e papel do SRE.
-    - [ ] SRE vs DevOps: Diferenças e Colaborações.
-    - [ ] Golden Metrics, Runbooks e Post-Mortem.
-    - [ ] SLA, SLI, SLO e Error Budget.
-    - [ ] MTTR, RTO e RPO
-- [ ] FinOps
-    - [ ] Cultura FinOps na Cloud.
-    - [ ] Rightsizing, Forecast, Savings Plans, Spot Instances.
-    - [ ] Tagueamento de recursos e automação de economia.
-    - [ ] Visibilidade com Kubecost e AWS Cost Explorer.
-- [ ] IT Service Management e AIOps
-    - [ ] A Evolução do ITSM e o Papel do AIOps.
-    - [ ] Boas práticas e Frameworks: ITIL e ISO/IEC 20000.
-    - [ ] Ciclo de Vida e Estratégias de Serviços.
-    - [ ] AIOPs no gerenciamento preditivo da TI.
+- [x] Multicloud e Segurança
+    - [x] Criação e Automação Multicloud (AWS, Azure e GCP).
+    - [x] Segurança e privacidade centralizada.
+    - [x] Disaster Recovery e PCN.
+    - [x] Casos de Uso e Cenários reais
+- [x] SRE
+    - [x] SRE (Site Reliability Engineering)
+    - [x] Cultura e papel do SRE.
+    - [x] SRE vs DevOps: Diferenças e Colaborações.
+    - [x] Golden Metrics, Runbooks e Post-Mortem.
+    - [x] SLA, SLI, SLO e Error Budget.
+    - [x] MTTR, RTO e RPO
+- [x] FinOps
+    - [x] Cultura FinOps na Cloud.
+    - [x] Rightsizing, Forecast, Savings Plans, Spot Instances.
+    - [x] Tagueamento de recursos e automação de economia.
+    - [x] Visibilidade com Kubecost e AWS Cost Explorer.
+- [x] IT Service Management e AIOps
+    - [x] A Evolução do ITSM e o Papel do AIOps.
+    - [x] Boas práticas e Frameworks: ITIL e ISO/IEC 20000.
+    - [x] Ciclo de Vida e Estratégias de Serviços.
+    - [x] AIOPs no gerenciamento preditivo da TI.
 
-### 🔐 AppSec — Nível 3
-- [ ] Gestão de Logs e Métricas
-- [ ] Integrando Security by Design no SDLC
-- [ ] Gestão de Vulnerabilidade
-- [ ] AppSec (Estratégias)
-- [ ] ASVS
-- [ ] OWASP SAMM
+### 🧪 Hackaton FIAP
+  - [Projeto Fase 5](https://github.com/rodx64/pos_arch/tree/develop/fase_5/tech_challenge)
 
+--- 
+
+# 📆 Roadmap: em andamento (2026/2027)
+
+## AppSec CECyber
+### 🟪 FASE 01 - Foundation — MÊS 7-10
+
+- [x] Fundamentos de Segurança
+- [x] Shift Left
+- [x] Classificação de Risco
+- [x] Politicas e praticas de segurança
+- [x] Introdução à produtos de segurança
+- [x] Intro aos Laboratórios
+- [x] Testes de Penetração
+- [x] Autenticação e Controle de Acesso
+- [x] Documentação Eficaz de Projetos
+- [x] Tratamento de Logs e Observabilidade
+- [ ] Validação de Entrada
+- [ ] Criptografia
+- [ ] Testes Automatizados de Segurança
+- [ ] Threat Modeling
+- [ ] Prevenção à Fraudes
+
+---
+
+### 🟦 FASE 02 — Trained - MÊS 11-2
+
+---
+### 🟩 FASE 03 — Expert - MÊS 2–6
+
+---
+### 🟨 FASE 04 — Master - MÊS 6–11
+
+---
 ## ✅ Resultado Esperado
 * Arquitetura Cloud sólida
-* AppSec prático e aplicado ao projeto final
-* Documentação do projeto baseada em ASVS
-* Observabilidade e métricas de segurança
+* Security Engineer (Foundation)
+
